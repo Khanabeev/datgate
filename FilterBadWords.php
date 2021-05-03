@@ -10,7 +10,6 @@ class FilterBadWords
     /**
      * FilterBadWords constructor.
      * @param array $badWords
-     * @param $text
      */
     public function __construct(array $badWords)
     {
